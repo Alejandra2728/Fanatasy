@@ -1,2 +1,2 @@
-# Fanatasy
+# Fantasy
 Sistema de predicciones
